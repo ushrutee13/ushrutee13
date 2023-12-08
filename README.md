@@ -6,8 +6,7 @@
 ### Glad to see you here! &nbsp;
 
 I am a Devops/SRE/Cloud Infrastructure engineer. I love programming, drawing and traveling.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/ushrutee13/ushrutee13/blob/main/assets/girl-programmer.gif" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
