@@ -15,7 +15,6 @@ I am a Devops/SRE/Cloud Infrastructure engineer. I love programming, drawing and
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: shrutisu13@gmail.com;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1vt50bTWPZXCqljHP4DfYF0amcnnVYqxq/view?usp=drive_link).
-
 </br>
 
 📊 **Everday I Spent My Time On:**
