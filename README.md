@@ -17,3 +17,17 @@ I am a Devops/SRE/Cloud Infrastructure engineer. I love programming, drawing and
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1vt50bTWPZXCqljHP4DfYF0amcnnVYqxq/view?usp=drive_link).
 
 </br>
+
+📊 **Everday I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```txt
+Kubernetes             ███████████████████▓░░░░    
+Ansible                █████████████▓░░░░░░░░░░
+Gitlab                 ███████████▓░░░░░░░░░░░░  
+Python                 ██████▓░░░░░░░░░░░░░░░░░
+Others                 ████████▓░░░░░░░░░░░░░░░   
+```
+
+<!--END_SECTION:waka-->
+
